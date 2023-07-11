@@ -14,6 +14,7 @@ This is good if you are a subgroup mr/hr and hear about someone who may be break
 [It can be used on replit](https://replit.com/@ClayPotato/PinewoodPlayerLookup?v=1) if you do not want to download the files
 
 You need [Python3](https://www.python.org/downloads/)+ installed on a windows machine, along with this source file. All you need to do is run `mainrunner.py` and your good!
+You can also run `Starter.bat` and that will start everything up for you
 
 
 Thats basically it, I need to check if it works on MacOs as frankly I am too lazy right now. Anyways enjoy and please tell me if there is a bug.
